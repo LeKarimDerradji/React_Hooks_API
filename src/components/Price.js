@@ -6,7 +6,7 @@ const Price = ({price}) => {
         <div className='mw-100 mh-100 text-center '
         style={{backgroundColor: 'black'}}>
         <div className='p-5 bg-black mw-100 mh-100'>
-        <h1 className='text-danger' >{price}</h1>
+        <h1 className='text-warning' >{price}</h1>
         </div>
         
         </div>
